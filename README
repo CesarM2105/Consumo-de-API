@@ -1,0 +1,41 @@
+# 📚 Literalura - Catálogo de Libros en Java
+
+Literalura es una aplicación de consola desarrollada en **Java** que permite consultar información de libros desde una API pública y gestionar un pequeño catálogo de libros y autores.
+
+El proyecto fue creado como práctica de:
+
+- Consumo de APIs
+- Programación Orientada a Objetos
+- Manejo de JSON
+- Persistencia de datos
+- Aplicaciones Java en consola
+
+---
+
+# 🚀 Funcionalidades
+
+La aplicación permite:
+
+1️⃣ Buscar libro por título  
+2️⃣ Listar libros registrados  
+3️⃣ Listar autores registrados  
+4️⃣ Listar autores vivos en un año determinado  
+5️⃣ Listar libros por idioma  
+
+Además incluye la opción de salir de la aplicación.
+
+---
+
+# 🌐 API utilizada
+
+Este proyecto utiliza la API pública:
+
+Gutendex API
+
+Basada en el catálogo del proyecto Gutenberg, que contiene miles de libros de dominio público.
+
+Ejemplo de consulta:
+
+https://gutendex.com/books/?search=harry+potter
+
+---
